@@ -4,4 +4,4 @@ Simple Tic-Tac-Toe console application. I made this mostly to practice writing a
 
 # Usage
 
-Type in `make release` and then `./tic_tac_toe` to run it in the console.
+Type in `make release` and then `./tic_tac_toe` to run it in the console. `make clean` cleans up all object files and executables.
